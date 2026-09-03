@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud-Fundamentals_Core_Infrastructure-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud Fundamentals"/>
 </p>
 
-## Stack
+## Stack & Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
