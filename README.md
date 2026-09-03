@@ -7,51 +7,23 @@ Full-Stack Developer — Muntinlupa, PH
   <a href="https://www.linkedin.com/in/mark-rolis-valenzuela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-## Summary
-
-<p align="center">
-  <b>Full-stack developer working across React/Next.js, Node/NestJS, PostgreSQL, and AWS.</b><br/>
-  BSIT Software Development, Mapúa Malayan Digital College '26 — Summa Cum Laude.<br/>
-  AWS Certified Solutions Architect – Associate. Four internships across web platforms, fintech, and edtech.
-</p>
-
 ## Experience
 
-<details open>
-<summary><b>Web Developer Intern</b> — Mapúa Malayan Digital College · <i>May – Aug 2026 · Remote</i></summary>
-
-<br/>
-
+**Web Developer Intern** — Mapúa Malayan Digital College · Remote
+*May – Aug 2026*
 PostgreSQL + Drizzle data layer across 7 tables. Playwright automation for 20+ pages. GitHub Actions CI/CD across 4 Docker stacks.
 
-</details>
-
-<details>
-<summary><b>Full Stack Developer Intern</b> — Payments NGnair · <i>Apr – Jun 2026 · Remote</i></summary>
-
-<br/>
-
+**Full Stack Developer Intern** — Payments NGnair · Remote
+*Apr – Jun 2026*
 Triaged ~50 defects across microservices. Set up local HTTPS for 6 microfrontends. Shipped the marketing site's Partners page.
 
-</details>
-
-<details>
-<summary><b>Full Stack Developer Trainee</b> — BEfied · <i>Jan – Apr 2026 · Remote</i></summary>
-
-<br/>
-
+**Full Stack Developer Trainee** — BEfied · Remote
+*Jan – Apr 2026*
 Delivered 30+ V1-to-V2 features and 50+ production fixes in Agile Scrum. Streamlined the Git workflow across 4 repos.
 
-</details>
-
-<details>
-<summary><b>Frontend Developer Intern</b> — LoPhils, Inc. · <i>May – Oct 2023 · Remote</i></summary>
-
-<br/>
-
+**Frontend Developer Intern** — LoPhils, Inc. · Remote
+*May – Oct 2023*
 Shipped 60+ React tasks. #1 performing React dev in the first month. Built a key Onboarding feature.
-
-</details>
 
 ## Education
 
