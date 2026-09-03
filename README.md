@@ -1,44 +1,9 @@
 # Mark Rolis Valenzuela
 
-Full-Stack Developer — Muntinlupa, PH
-
 <p align="center">
   <a href="mailto:markvalenzuela1012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/mark-rolis-valenzuela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-## Experience
-
-**Web Developer Intern** — Mapúa Malayan Digital College · Remote
-*May – Aug 2026*
-PostgreSQL + Drizzle data layer across 7 tables. Playwright automation for 20+ pages. GitHub Actions CI/CD across 4 Docker stacks.
-
-**Full Stack Developer Intern** — Payments NGnair · Remote
-*Apr – Jun 2026*
-Triaged ~50 defects across microservices. Set up local HTTPS for 6 microfrontends. Shipped the marketing site's Partners page.
-
-**Full Stack Developer Trainee** — BEfied · Remote
-*Jan – Apr 2026*
-Delivered 30+ V1-to-V2 features and 50+ production fixes in Agile Scrum. Streamlined the Git workflow across 4 repos.
-
-**Frontend Developer Intern** — LoPhils, Inc. · Remote
-*May – Oct 2023*
-Shipped 60+ React tasks. #1 performing React dev in the first month. Built a key Onboarding feature.
-
-## Education
-
-<table>
-  <tr>
-    <td>
-      <b>Mapúa Malayan Digital College</b><br/>
-      BS Information Technology, Software Development
-    </td>
-    <td align="right">
-      2023 – 2026<br/>
-      <img src="https://img.shields.io/badge/Summa_Cum_Laude-GWA_1.11-FFD700" alt="Summa Cum Laude"/>
-    </td>
-  </tr>
-</table>
 
 ## Certifications
 
