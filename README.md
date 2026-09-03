@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=180&section=header&text=Morfusee&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Morfusee banner"/>
-
 <p align="center">
   <a href="https://github.com/Morfusee"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;TypeScript+%7C+Next.js+%7C+tRPC;Postgres+%7C+Drizzle+%7C+Docker;Rust+%7C+Python" alt="Typing headline"/></a>
 </p>
@@ -7,7 +5,6 @@
 <p align="center">
   <a href="mailto:markvalenzuela.coding@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/your-handle/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <span><img src="https://komarev.com/ghpvc/?username=Morfusee&style=flat-square&color=38bdf8" alt="Profile views"/></span>
 </p>
 
 ## Summary
