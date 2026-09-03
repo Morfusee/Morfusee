@@ -55,7 +55,7 @@ Also: Tailwind, Express, Spring Boot, Python, MySQL, MongoDB, Firebase, Supabase
 ## Proof of work
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=Morfusee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=Morfusee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues,contribs" alt="GitHub stats"/>
   <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Morfusee&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 <p align="center">
