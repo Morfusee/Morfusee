@@ -37,8 +37,8 @@ Full-stack developer building type-safe web apps end to end — Next.js + tRPC +
 ## Proof of work
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Morfusee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morfusee&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=Morfusee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Morfusee&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Morfusee&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
