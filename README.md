@@ -1,29 +1,47 @@
 # Mark Rolis Valenzuela
 
+Full-Stack Developer — Muntinlupa, PH
+
 <p align="center">
-  <a href="mailto:markvalenzuela.coding@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:markvalenzuela1012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/mark-rolis-valenzuela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## Summary
 
-Full-stack developer building type-safe web apps end to end — Next.js + tRPC + Postgres, shipped with Docker. Currently building **markdown2share**, a Markdown writing / sharing / publishing app. Open to junior full-stack roles and freelance builds.
+Full-stack developer working across React/Next.js, Node/NestJS, PostgreSQL, and AWS. BSIT Software Development, Mapua Malayan Digital College '26, Summa Cum Laude. AWS Certified Solutions Architect – Associate. Four internships across web platforms, fintech microservices, and edtech.
 
-- Currently: `markdown2share` (Next.js, Drizzle, PgDog, Dokploy)
-- Into: strict TypeScript contracts, Drizzle persistence, Dockerized deploys
-- Reach me: markvalenzuela.coding@gmail.com
+## Experience
 
-## Core stack
+- **Web Developer Intern — Mapua Malayan Digital College** (May – Aug 2026): PostgreSQL + Drizzle data layer across 7 tables; Playwright automation for 20+ pages; GitHub Actions CI/CD across 4 Docker stacks.
+- **Full Stack Developer Intern — Payments NGnair** (Apr – Jun 2026): triaged ~50 defects across microservices; set up local HTTPS for 6 microfrontends; shipped the marketing site's Partners page.
+- **Full Stack Developer Trainee — BEfied** (Jan – Apr 2026): 30+ V1-to-V2 features; 50+ production fixes in Agile Scrum; Git workflow across 4 repos.
+- **Frontend Developer Intern — LoPhils, Inc.** (May – Oct 2023): 60+ React tasks; #1 performing React dev in the first month; shipped a key Onboarding feature.
+
+## Education
+
+**Mapua Malayan Digital College** — BS Information Technology, Software Development (2023 – 2026). Summa Cum Laude, GWA 1.11.
+
+## Certifications
+
+- AWS Certified Solutions Architect – Associate
+- AWS Academy: Cloud Foundations, Generative AI Foundations
+- Google Cloud Fundamentals: Core Infrastructure
+
+## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+Also: Tailwind, Express, Spring Boot, Python, MySQL, MongoDB, Firebase, Supabase, Cloudflare, Grafana, Ansible, Tailscale.
 
 ## Featured work
 
