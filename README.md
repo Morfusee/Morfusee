@@ -9,24 +9,73 @@ Full-Stack Developer — Muntinlupa, PH
 
 ## Summary
 
-Full-stack developer working across React/Next.js, Node/NestJS, PostgreSQL, and AWS. BSIT Software Development, Mapua Malayan Digital College '26, Summa Cum Laude. AWS Certified Solutions Architect – Associate. Four internships across web platforms, fintech microservices, and edtech.
+<p align="center">
+  <b>Full-stack developer working across React/Next.js, Node/NestJS, PostgreSQL, and AWS.</b><br/>
+  BSIT Software Development, Mapúa Malayan Digital College '26 — Summa Cum Laude.<br/>
+  AWS Certified Solutions Architect – Associate. Four internships across web platforms, fintech, and edtech.
+</p>
 
 ## Experience
 
-- **Web Developer Intern — Mapua Malayan Digital College** (May – Aug 2026): PostgreSQL + Drizzle data layer across 7 tables; Playwright automation for 20+ pages; GitHub Actions CI/CD across 4 Docker stacks.
-- **Full Stack Developer Intern — Payments NGnair** (Apr – Jun 2026): triaged ~50 defects across microservices; set up local HTTPS for 6 microfrontends; shipped the marketing site's Partners page.
-- **Full Stack Developer Trainee — BEfied** (Jan – Apr 2026): 30+ V1-to-V2 features; 50+ production fixes in Agile Scrum; Git workflow across 4 repos.
-- **Frontend Developer Intern — LoPhils, Inc.** (May – Oct 2023): 60+ React tasks; #1 performing React dev in the first month; shipped a key Onboarding feature.
+<details open>
+<summary><b>Web Developer Intern</b> — Mapúa Malayan Digital College · <i>May – Aug 2026 · Remote</i></summary>
+
+<br/>
+
+PostgreSQL + Drizzle data layer across 7 tables. Playwright automation for 20+ pages. GitHub Actions CI/CD across 4 Docker stacks.
+
+</details>
+
+<details>
+<summary><b>Full Stack Developer Intern</b> — Payments NGnair · <i>Apr – Jun 2026 · Remote</i></summary>
+
+<br/>
+
+Triaged ~50 defects across microservices. Set up local HTTPS for 6 microfrontends. Shipped the marketing site's Partners page.
+
+</details>
+
+<details>
+<summary><b>Full Stack Developer Trainee</b> — BEfied · <i>Jan – Apr 2026 · Remote</i></summary>
+
+<br/>
+
+Delivered 30+ V1-to-V2 features and 50+ production fixes in Agile Scrum. Streamlined the Git workflow across 4 repos.
+
+</details>
+
+<details>
+<summary><b>Frontend Developer Intern</b> — LoPhils, Inc. · <i>May – Oct 2023 · Remote</i></summary>
+
+<br/>
+
+Shipped 60+ React tasks. #1 performing React dev in the first month. Built a key Onboarding feature.
+
+</details>
 
 ## Education
 
-**Mapua Malayan Digital College** — BS Information Technology, Software Development (2023 – 2026). Summa Cum Laude, GWA 1.11.
+<table>
+  <tr>
+    <td>
+      <b>Mapúa Malayan Digital College</b><br/>
+      BS Information Technology, Software Development
+    </td>
+    <td align="right">
+      2023 – 2026<br/>
+      <img src="https://img.shields.io/badge/Summa_Cum_Laude-GWA_1.11-FFD700" alt="Summa Cum Laude"/>
+    </td>
+  </tr>
+</table>
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Associate
-- AWS Academy: Cloud Foundations, Generative AI Foundations
-- Google Cloud Fundamentals: Core Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Associate"/>
+  <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-232F3E?logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations"/>
+  <img src="https://img.shields.io/badge/AWS_Academy-Generative_AI_Foundations-232F3E?logo=amazonaws&logoColor=white" alt="AWS Generative AI Foundations"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Fundamentals_Core_Infrastructure-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud Fundamentals"/>
+</p>
 
 ## Stack
 
